@@ -21,8 +21,7 @@ App ScreenShots:
 
 
 
-<img src="https://github.com/Pradyumna-cyber/quickread/raw/main/assets/73057121/2d7f7cf4-2332-4276-964b-8c65ae007ab2" alt="i1" width="100" height="100">
-
+![i1](https://github.com/Pradyumna-cyber/quickread/assets/73057121/bab75e92-d4e1-4858-a446-b68f0f1d46e5)
 ![i2](https://github.com/Pradyumna-cyber/quickread/assets/73057121/fe2c7ff4-9b96-4d89-adf8-6ee1a64fca4a)
 ![i3](https://github.com/Pradyumna-cyber/quickread/assets/73057121/730bb733-4f7a-4da9-80b7-a7460ef4d7fc)
 ![i4](https://github.com/Pradyumna-cyber/quickread/assets/73057121/330a889e-90ea-4631-8eda-6e29da0db9b7)
