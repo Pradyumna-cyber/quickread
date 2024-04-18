@@ -22,5 +22,5 @@ App ScreenShots:
 
 
 
-![i1](https://github.com/Pradyumna-cyber/quickread/assets/73057121/d1a1fa9d-9f60-4dbd-84d8-766cbe2616dc)
+![i1](https://github.com/Pradyumna-cyber/quickread/assets/73057121/d1a1fa9d-9f60-4dbd-84d8-766cbe2616dc|width="100")
 
